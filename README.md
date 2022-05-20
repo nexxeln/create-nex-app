@@ -1,6 +1,6 @@
 <h1 align="center">Create Nex App</h1>
-Create websites using my preferred stack.
-Need help making this interactive since I have no idea how to do that in node.
+
+Create websites using my preferred stack following [init.tips](https://init.tips). Need help making this interactive since I have no idea how to do that in node.
 
 ## Usage
 
