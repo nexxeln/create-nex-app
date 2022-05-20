@@ -12,7 +12,7 @@ const { name } = args;
 
 fs.mkdir(`./${name}`, (error: Error) => {
   if (error) {
-    console.error("Could not create directory");
+    console.error("Could not create directory!");
     process.exit(0);
   }
 
@@ -25,6 +25,7 @@ fs.mkdir(`./${name}`, (error: Error) => {
   console.log(`Next steps:`);
   console.log(`- cd ${name}`);
   console.log(`- npm install`);
+  console.log(`- npm run dev`);
 
   process.exit(0);
 });
