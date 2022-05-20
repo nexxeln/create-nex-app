@@ -1,7 +1,7 @@
 {
   "name": "create-nex-app",
   "version": "1.0.1",
-  "description": "",
+  "description": "create websites using my preferred stack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/nexxeln/create-nex-app.git"
   },
-  "keywords": [],
+  "keywords": [
+    "create-nex-app",
+    "next.js",
+    "tRPC",
+    "tailwind",
+    "init.tips",
+    "typescript"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
