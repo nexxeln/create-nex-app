@@ -29,5 +29,8 @@
   "dependencies": {
     "fs-extra": "^10.1.0",
     "yargs": "^17.5.1"
+  },
+  "bin": {
+    "create-nex-app": "./dist/index.js"
   }
 }
