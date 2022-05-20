@@ -1,4 +1,4 @@
-<h1 align="center">CREATE-NEX-APP</h1>
+<h1 align="center">Create Nex App</h1>
 Create websites using my preferred stack.
 Need help making this interactive since I have no idea how to do that in node.
 
