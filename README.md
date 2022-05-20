@@ -8,7 +8,7 @@ Create websites using my preferred stack following [init.tips](https://init.tips
 npx create-nex-app --name my-project
 # or
 yarn create nex-app --name my-project
-#or
+# or
 pnpm create nex-app --name my-project
 ```
 
