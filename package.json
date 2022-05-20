@@ -1,0 +1,32 @@
+{
+  "name": "create-nex-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -b",
+    "start": "ts-node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexxeln/create-nex-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexxeln/create-nex-app/issues"
+  },
+  "homepage": "https://github.com/nexxeln/create-nex-app#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "@types/node": "^17.0.35",
+    "@types/yargs": "^17.0.10",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "yargs": "^17.5.1"
+  }
+}
