@@ -1,6 +1,6 @@
 {
   "name": "create-nex-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create websites using my preferred stack",
   "main": "index.js",
   "scripts": {
