@@ -5,11 +5,11 @@ Create websites using my preferred stack following [init.tips](https://init.tips
 ## Usage
 
 ```bash
-npx create-nex-app --name my-project
+npx create-nex-app@latest --name my-project
 # or
 yarn create nex-app --name my-project
 # or
-pnpm create nex-app --name my-project
+pnpm create nex-app@latest -- --name my-project
 ```
 
 ## Stack
