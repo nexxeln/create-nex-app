@@ -25,8 +25,6 @@ fs.mkdir(`./${name}`, (error: Error) => {
 
   fs.copySync(srcDir, destinationDir);
 
-  console.log(`using ${pkgManager} to install dependencies`);
-
   console.log(`Created ${name} successfully!`);
   console.log(`Next steps:`);
   console.log(`- cd ${name}`);
